@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 Deployment documentation
+
+## How To Contribute
+
+Please fork this
