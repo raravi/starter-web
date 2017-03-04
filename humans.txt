@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Amith Raravi araravi@gmail.com	@raravi
 
 # THANKS
 
